@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it."
+title: "Which number does Claude pick? 221 random-number prompts to Claude Haiku 4.5, Sonnet 5.5 and Opus 5.5"
+authors:
+  - family-names: Shahriar
+    given-names: Saeed
+    website: "https://saeedseo.com/"
+date-released: 2026-10-26
+url: "https://saeedseo.com/blog/reddit-post-one-million-views/"
+license: CC-BY-4.0
+repository-code: "https://github.com/s77sh/claude-random-numbers"
