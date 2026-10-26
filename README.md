@@ -1,7 +1,5 @@
 # Which number does Claude pick?
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23669725.svg)](https://doi.org/10.5281/zenodo.23669725)
-
 221 "random number between 1 and 100" prompts to Claude Haiku 4.5, Sonnet 5.5 and Opus 5.5, plus 225 follow-up prompts for 1 to 10,000. Collected by Saeed Shahriar in October 2026 with Claude Code's `claude -p`.
 
 ## Method
