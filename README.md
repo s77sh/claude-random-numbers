@@ -1,5 +1,7 @@
 # Which number does Claude pick?
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23669725.svg)](https://doi.org/10.5281/zenodo.23669725)
+
 221 "random number between 1 and 100" prompts to Claude Haiku 4.5, Sonnet 5.5 and Opus 5.5, plus 225 follow-up prompts for 1 to 10,000. Collected by Saeed Shahriar in October 2026 with Claude Code's `claude -p`.
 
 ## Method
@@ -28,5 +30,7 @@ For 1 to 10,000: 221 of the 225 answers contain a 7. Top answers: 7342 (Haiku 20
 
 - Write-up: https://saeedseo.com/blog/reddit-post-one-million-views/
 - The chart on r/dataisbeautiful (1M views): https://www.reddit.com/r/dataisbeautiful/comments/1x9s7n7/
+
+Cite: Shahriar, S. (2026). Which number does Claude pick? Zenodo. https://doi.org/10.5281/zenodo.23669725
 
 License: CC BY 4.0.
